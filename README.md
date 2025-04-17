@@ -14,4 +14,4 @@ Saves data to a CSV file including:
 
 Automatically removes duplicates.
 
-Runs continuously, collecting data in real time.
+Runs continuously, collecting data in real time  pauses 60sec every time after fetching.
